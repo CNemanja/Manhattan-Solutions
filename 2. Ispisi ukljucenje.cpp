@@ -3,7 +3,7 @@ int randomInkasant()
 	srand((unsigned)time(NULL));
 	return (rand()%9)+1;
 }
-
+// BOJIC JE KONJINA
 void ukljucenjeDatoteka(FILE *f, FILE *f1)
 {
 	int inkasant;
