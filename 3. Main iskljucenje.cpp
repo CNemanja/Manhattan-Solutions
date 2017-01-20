@@ -4,7 +4,7 @@
 #include<windows.h>
 #include<string.h>
 #include<time.h>
-// JA SAM RETARD
+
 void naplataPutarine(FILE *, FILE *);
 void upisEvidencija(FILE *);
 void upisPotvrda(FILE *, FILE *, int, char *);
